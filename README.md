@@ -24,7 +24,7 @@ Welcome to my GitHub profile! I'm a passionate developer, tech enthusiast, and t
 ## 🔗 Let's Connect
 - **LinkedIn**: [Jugal Kishore Reddy Thangella](https://linkedin.com/in/jugal-kishore-reddy-thangella)  
 - **Instagram**: [tjkreddy](https://www.instagram.com/tjk_reddy_?igsh=MWc2OWZiMnFsenU5Zg%3D%3D&utm_source=qr)  
-- **Email**: [thangellajugalkishore@gmail.com]  
+- **Email**: thangellajugalkishore@gmail.com
 
 ---
 
