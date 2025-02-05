@@ -29,7 +29,6 @@ Welcome to my GitHub profile! I'm a passionate developer, tech enthusiast, and t
 ---
 
 ## 🌱 Fun Facts
--  I'm currently participating in my first hackathon: **Smart India Hackathon**!  
 -  I'm organizing Qubit Club events with goodies and certificates.  
 -  I enjoy creating content about overcoming procrastination and staying motivated.  
 
