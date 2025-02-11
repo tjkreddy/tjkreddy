@@ -15,7 +15,7 @@ Welcome to my GitHub profile! I'm a passionate developer, tech enthusiast, and t
 
 ##  Technologies & Tools
 - **Languages**: Python, C, Java, SQL, HTML, CSS  
-- **Frameworks & Tools**: Git, GitHub, Oracle JDK, PythonAnywhere  
+- **Frameworks & Tools**: Git, GitHub, Oracle JDK, PythonAnywhere, Docker, Doxygen.  
 - **Quantum Computing**: IBM Quantum Composer, Quantum Country  
 - **Design**: Canva, UI/UX Tools  
 
