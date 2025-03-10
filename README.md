@@ -14,7 +14,7 @@ Welcome to my GitHub profile! I'm a passionate developer, tech enthusiast, and t
 ---
 
 ##  Technologies & Tools
-- **Languages**: Python, C, Java, SQL, HTML, CSS  
+- **Languages**: Python, C, Java, SQL, HTML, CSS, JavaScript, MERN Stack.  
 - **Frameworks & Tools**: Git, GitHub, Oracle JDK, PythonAnywhere, Docker, Doxygen.  
 - **Quantum Computing**: IBM Quantum Composer, Quantum Country  
 - **Design**: Canva, UI/UX Tools  
@@ -30,7 +30,6 @@ Welcome to my GitHub profile! I'm a passionate developer, tech enthusiast, and t
 
 ## 🌱 Fun Facts
 -  I'm organizing Qubit Club events with goodies and certificates.  
--  I enjoy creating content about overcoming procrastination and staying motivated.  
 
 ---
 
