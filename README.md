@@ -8,7 +8,6 @@ Welcome to my GitHub profile! I'm a passionate developer, tech enthusiast, and t
 - **Tech Enthusiast**: I love exploring technologies like Python, Java, C, HTML, and CSS.  
 - **Web Developer**: Building websites with an eye for design and functionality.  
 - **Quantum Computing Learner**: Currently exploring IBM Quantum Composer and Quantum Country.  
-- **Game Developer**: Created fun projects using Python's Turtle Graphics.  
 - **Lifelong Learner**: Always curious about new technologies, algorithms, and coding paradigms.
 
 ---
