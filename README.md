@@ -19,17 +19,4 @@ Welcome to my GitHub profile! I'm a passionate developer, tech enthusiast, and t
 - **Design**: Canva, UI/UX Tools  
 
 ---
-
-## 🔗 Let's Connect
-- **LinkedIn**: [Jugal Kishore Reddy Thangella](https://linkedin.com/in/jugal-kishore-reddy-thangella)  
-- **Instagram**: [tjkreddy](https://www.instagram.com/tjk_reddy_?igsh=MWc2OWZiMnFsenU5Zg%3D%3D&utm_source=qr)  
-- **Email**: thangellajugalkishore@gmail.com
-
----
-
-## 🌱 Fun Facts
--  I'm organizing Qubit Club events with goodies and certificates.  
-
----
-
 Thank you for stopping by! Feel free to explore my repositories and connect with me. Happy coding!
